@@ -2,3 +2,4 @@
 *.xlsx
 *.json
 node_modules/
+dist/
